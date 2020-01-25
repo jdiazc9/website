@@ -78,7 +78,7 @@ Biological systems are complex. We do have a fair amount of information on the i
 
 My research focuses on communities of cells that have either *genetic* differences (e.g. bacterial colonies where various strains coexist), *phenotypic* differences (e.g. tissues where all cells have the same DNA sequence but still display variability in size, morphology or activity), or both. Their composition, as well as the interactions between their individuals, determine their properties. Is it possible to understand, predict and ultimately act on how these communities assemble and evolve?
 
-To address these questions, I use mathematical modeling, computer simulations and data analyses that complement the experimental skills that I (slowly but steadily!) keep developing. I am currently a Postdoctoral Researcher at the Universidad Autónoma de Madrid, where I work with professor [Ramón Díaz-Uriarte](https://www.ligarto.org/rdiaz/) on cancer evolution. Soon I will be joining the [Sánchez Laboratory](http://www.sanchezlaboratory.com/) at Yale. Stay tuned!
+To address these questions, I use mathematical modeling, computer simulations and data analyses that complement the experimental skills that I (slowly but steadily!) keep developing. I am currently a Postdoctoral Researcher at the Universidad Autónoma de Madrid, where I work with professor [Ramón Díaz-Uriarte](https://www.ligarto.org/rdiaz/) on cancer evolution. Soon I will be joining the [Sánchez Laboratory](http://www.sanchezlaboratory.com/) at Yale. Stay tuned!!
 
 
 
