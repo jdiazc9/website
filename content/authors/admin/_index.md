@@ -48,6 +48,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=en&user=MJIf7vAAAAAJ
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Juan_Diaz-Colunga
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0001-8995-4529  
