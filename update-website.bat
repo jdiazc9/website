@@ -1,7 +1,6 @@
 @echo off
 
 cd C:\Users\Juan\Desktop\website
-rd C:\Users\Juan\Desktop\website\public
 
 echo "Making new website locally (calling Hugo)"
 C:\Users\Juan\AppData\Roaming\Hugo\hugo.exe -t academic
