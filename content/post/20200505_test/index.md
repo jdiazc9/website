@@ -26,7 +26,7 @@ draft: false
 projects: []
 ---
 
-I recently came across [this very cool preprint](https://www.biorxiv.org/content/10.1101/2020.04.22.055517v1) in which Sarah P. Hammarlund et al. address the question of how several mutualistic parters are maintained in mutualistic networks despite them competing for the same resources. There are quite a few intriguing things that got me thinking. Let's start from the beginning...
+I recently came across [this very cool preprint](https://www.biorxiv.org/content/10.1101/2020.04.22.055517v1) in which Sarah P. Hammarlund et al. address the question of how several mutualistic parters are maintained in mutualistic networks despite them competing for the same resources. There are quite a few intriguing ideas in this paper. Let's start from the beginning...
 
 - What is a "mutualism"? What are "mutualistic networks"?
 - Classic ecology would predict exclusion if >1 species compete for an only resource (highest fitness/growth rate wins), so mutualistic _networks_ shouldn't exist
