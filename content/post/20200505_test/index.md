@@ -1,5 +1,5 @@
 ---
-title: Mutualisms, coexistence and clever ways to measure things
+title: Mutualism, coexistence and clever ways to measure things
 subtitle:
 summary: 
 authors:
