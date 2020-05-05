@@ -26,8 +26,6 @@ draft: false
 projects: []
 ---
 
-#![jpg](./image.jpg)
-
 I recently came across [this very cool preprint](https://www.biorxiv.org/content/10.1101/2020.04.22.055517v1) in which Sarah P. Hammarlund et al. address the question of how several mutualistic parters are maintained in mutualistic networks despite them competing for the same resources. There are quite a few intriguing things that got me thinking. Let's start from the beginning...
 
 - What is a "mutualism"? What are "mutualistic networks"?
