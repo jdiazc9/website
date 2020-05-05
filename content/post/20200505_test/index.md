@@ -1,6 +1,6 @@
 ---
-title: Assessing species soexistence
-subtitle: Clever Ways To Measure Things
+title: Mutualisms, coexistence and clever ways to measure things
+subtitle:
 summary: 
 authors:
 - admin
