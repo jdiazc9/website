@@ -1,7 +1,7 @@
 ---
 title: Mutualism, coexistence and clever ways to measure things
 subtitle:
-summary: 
+summary:
 authors:
 - admin
 tags: []
