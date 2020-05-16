@@ -9,7 +9,7 @@ categories: []
 date: "2020-05-05T00:00:00Z"
 lastMod: "2020-05-05T00:00:00Z"
 featured: false
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -32,11 +32,22 @@ I recently came across [this very cool preprint](https://www.biorxiv.org/content
 
 Straight out of [Wikipedia](https://en.wikipedia.org/wiki/Mutualism_(biology)):
 > Mutualism describes the ecological interaction between two or more species where each species has a net benefit.
-Perhaps the most typical example are bees and flowering plants. Bees feed on the flowers' nectar and carry pollen around: everybody wins!
+Perhaps the most typical example are bees and flowering plants. Bees feed on the flowers' nectar and carry pollen around, so everybody wins!
 
-Sometimes sets of more than two species can form _mutualistic networks_. Think of it as flowers being pollinated by both bees and butterflies (I'm using the exact same analogy as in the paper, but I feel like it really is _the_ analogy).
+Sometimes sets of more than two species can form _mutualistic networks_. Think of it as flowers now being pollinated by both bees and butterflies (I'm using the exact same analogy as the paper, but I feel like it really is _the_ analogy). There is a bit of an issue here, though. According to classic ecology, if two species are competing for a single resource, the one that grows faster will exclude (_outcompete_) the other. So either bees or butterflies should be doomed... or not?
 
-- What is a "mutualism"? What are "mutualistic networks"?
-- Classic ecology would predict exclusion if >1 species compete for an only resource (highest fitness/growth rate wins), so mutualistic _networks_ shouldn't exist
-- Paper results
-- Paper way of assessing coexistence
+The paper by Hammarlund et al. uses a system with two bacterial strains of _E. coli_ (the bees and the butterflies) that share a common mutualist (the flowering plants) and proposes a mechanism through which the common mutualist provides each strain with a specific resource (two amino acids, one for each _E. coli_ strain) they need to grow. The dynamics are such that the growth of the faster _E. coli_ is initially limited by the availability of the amino acid, while that of the slower one isn't. At the end of the day, the slower grower is not outcompeted and the system displays coexistence of all three species.
+
+## Assessing coexistence
+
+One of the interesting things I found in this paper was their way to check for coexistence.
+
+...
+
+Buts:
+
+* not valid if population size is variable
+* can't tell apart coexistence from competitive exclusion in the "weird" (maybe not so weird?) scenario in which the initially less abundant species ends up outcompeting the more abundant (i.e. there is still exclusion, just "inverted")
+* if species fractions are measured after just one day, it is not guaranteed that coexistence will be mantained further in time (in equilibrium)
+
+
