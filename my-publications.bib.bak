@@ -1,0 +1,50 @@
+% Encoding: UTF-8
+
+@Article{diaz-colunga2018,
+  author    = {Silvia M{\'{a}}rquez-Jurado and Juan D{\'{\i}}az-Colunga and Ricardo Pires das Neves and Antonio Martinez-Lorente and Fernando Almaz{\'{a}}n and Ra{\'{u}}l Guantes and Francisco J. Iborra},
+  title     = {Mitochondrial levels determine variability in cell death by modulating apoptotic gene expression},
+  journal   = {Nature Communications},
+  year      = {2018},
+  volume    = {9},
+  number    = {1},
+  month     = {jan},
+  doi       = {10.1038/s41467-017-02787-4},
+  publisher = {Springer Nature},
+}
+
+@Article{guantes2015b,
+  author  = {Guantes, Raúl and Díaz-Colunga, Juan and Iborra, Francisco J.},
+  title   = {Mitochondria and the non-genetic origins of cell-to-cell variability: More is different},
+  journal = {BioEssays},
+  year    = {2015},
+  volume  = {38},
+  number  = {1},
+  pages   = {64--76},
+  doi     = {10.1002/bies.201500082},
+}
+
+@Article{lima2018,
+  author    = {A. F. Lima and G. May and J. D{\'{\i}}az-Colunga and S. Pedreiro and A. Paiva and L. Ferreira and T. Enver and F. J. Iborra and R. Pires das Neves},
+  title     = {Osmotic modulation of chromatin impacts on efficiency and kinetics of cell fate modulation},
+  journal   = {Scientific Reports},
+  year      = {2018},
+  volume    = {8},
+  number    = {1},
+  month     = {may},
+  doi       = {10.1038/s41598-018-25517-2},
+  publisher = {Springer Nature},
+}
+
+@Article{marcos-villar2018,
+  author    = {Laura Marcos-Villar and Juan D{\'{\i}}az-Colunga and Juan Sandoval and Noelia Zamarre{\~{n}}o and Sara Landeras-Bueno and Manel Esteller and Ana Falc{\'{o}}n and Amelia Nieto},
+  title     = {Epigenetic control of influenza virus: role of H3K79 methylation in interferon-induced antiviral response},
+  journal   = {Scientific Reports},
+  year      = {2018},
+  volume    = {8},
+  number    = {1},
+  month     = {jan},
+  doi       = {10.1038/s41598-018-19370-6},
+  publisher = {Springer Nature},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
