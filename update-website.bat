@@ -3,7 +3,7 @@
 cd C:\Users\Juan\Desktop\website
 
 echo "Updating publications"
-academic import --bibtex my-publications.bib
+academic import --bibtex --overwrite my-publications.bib
 
 echo "Making new website locally (calling Hugo)"
 C:\Users\Juan\AppData\Roaming\Hugo\hugo.exe -t academic
