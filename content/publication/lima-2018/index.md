@@ -1,7 +1,7 @@
 ---
 title: "Osmotic modulation of chromatin impacts on efficiency and kinetics of cell fate modulation"
 date: 2018-05-01
-publishDate: 2020-07-28T23:42:11.867834Z
+publishDate: 2020-07-28T23:43:17.874830Z
 authors: ["A. F. Lima", "G. May", "J. Díaz-Colunga", "S. Pedreiro", "A. Paiva", "L. Ferreira", "T. Enver", "F. J. Iborra", "R. Pires das Neves"]
 publication_types: ["2"]
 abstract: ""

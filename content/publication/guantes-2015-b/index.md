@@ -1,7 +1,7 @@
 ---
 title: "Mitochondria and the non-genetic origins of cell-to-cell variability: More is different"
 date: 2015-01-01
-publishDate: 2020-07-28T23:42:11.866834Z
+publishDate: 2020-07-28T23:43:17.873828Z
 authors: ["Raúl Guantes", "Juan Díaz-Colunga", "Francisco J. Iborra"]
 publication_types: ["2"]
 abstract: ""
