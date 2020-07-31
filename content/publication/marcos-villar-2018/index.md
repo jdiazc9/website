@@ -1,7 +1,7 @@
 ---
 title: "Epigenetic control of influenza virus: role of H3K79 methylation in interferon-induced antiviral response"
 date: 2018-01-01
-publishDate: 2020-07-29T00:03:27.640670Z
+publishDate: 2020-07-31T14:28:48.328460Z
 authors: ["Laura Marcos-Villar", "Juan Díaz-Colunga", "Juan Sandoval", "Noelia Zamarreño", "Sara Landeras-Bueno", "Manel Esteller", "Ana Falcón", "Amelia Nieto"]
 publication_types: ["2"]
 abstract: ""
