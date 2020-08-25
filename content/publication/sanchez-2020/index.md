@@ -1,7 +1,7 @@
 ---
 title: "Directed evolution of microbial communities"
 date: 2020-07-01
-publishDate: 2020-07-31T14:34:28.080603Z
+publishDate: 2020-08-25T15:35:24.269133Z
 authors: ["Alvaro Sanchez", "Jean C. C. Vila", "Chang-Yu Chang", "Juan Diaz-Colunga", "Sylvie Estrela", "Maria Rebolleda-Gomez"]
 publication_types: ["2"]
 abstract: ""
