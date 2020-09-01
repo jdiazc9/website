@@ -77,9 +77,9 @@ user_groups: []
 # - Visitors
 ---
 
-Biological systems are complex. We have a fair amount of information on the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how their assembly produces emergent behaviors.
+Biological systems are complex. We have a fair amount of information about the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how they assemble to produce emergent behaviors.
 
-My research focuses on communities of cells that are different at the *genotypic* level (e.g. cancer cells carrying different mutations within a same tumor, bacterial colonies where multiple species coexist...) or at the *phenotypic* level only (e.g. cells that display differences in size, morphology or activity despite carrying identical DNA sequences). The composition of these communities and the interactions of their individuals determine their properties. Can we understand, predict and ultimately act on how these communities assemble and evolve?
+My research focuses on communities of cells that are different at the *genotypic* level (e.g. cancer cells carrying different mutations, bacterial colonies where multiple species coexist...) or at the *phenotypic* level only (e.g. cells that display differences in size, morphology or activity despite carrying identical DNA sequences). The composition of these communities and the interactions of their individuals determine their properties. Can we understand, predict and ultimately act on how these communities assemble and evolve?
 
 To address these questions, I use mathematical modeling, computer simulations and data analyses that complement the experimental skills that I (slowly but steadily!) keep developing. I am currently a Postdoctoral Researcher at the Universidad Autónoma de Madrid, where I work with professor [Ramón Díaz-Uriarte](https://www.ligarto.org/rdiaz/) on cancer evolution. Soon I will be joining the [Sanchez Laboratory](http://www.sanchezlaboratory.com/) at Yale. Stay tuned!
 
