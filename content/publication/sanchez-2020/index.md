@@ -1,7 +1,7 @@
 ---
 title: Directed evolution of microbial communities
 date: '2020-07-01'
-publishDate: '2020-12-18T23:50:04.240143Z'
+publishDate: '2020-12-18T23:51:55.317309Z'
 authors:
 - Alvaro Sanchez
 - Jean C. C. Vila
