@@ -3,7 +3,7 @@
 cd Z:\website
 
 echo "Updating publications"
-academic import --bibtex my-publications.bib --overwrite
+academic import --bibtex --overwrite my-publications.bib
 
 echo "Making new website locally (calling Hugo)"
 hugo -t academic
