@@ -1,12 +1,21 @@
 ---
-title: "Mitochondrial levels determine variability in cell death by modulating apoptotic gene expression"
-date: 2018-01-01
-publishDate: 2020-09-01T23:12:47.815817Z
-authors: ["Silvia Márquez-Jurado", "Juan Díaz-Colunga", "Ricardo Pires das Neves", "Antonio Martinez-Lorente", "Fernando Almazán", "Raúl Guantes", "Francisco J. Iborra"]
-publication_types: ["2"]
-abstract: ""
+title: Mitochondrial levels determine variability in cell death by modulating apoptotic
+  gene expression
+date: '2018-01-01'
+publishDate: '2020-12-18T23:47:31.000618Z'
+authors:
+- Silvia Márquez-Jurado
+- Juan Díaz-Colunga
+- Ricardo Pires das Neves
+- Antonio Martinez-Lorente
+- Fernando Almazán
+- Raúl Guantes
+- Francisco J. Iborra
+publication_types:
+- '2'
+abstract: ''
 featured: false
-publication: "*Nature Communications*"
-doi: "10.1038/s41467-017-02787-4"
+publication: '*Nature Communications*'
+doi: 10.1038/s41467-017-02787-4
 ---
 
