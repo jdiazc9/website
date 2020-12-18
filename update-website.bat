@@ -1,6 +1,6 @@
 @echo off
 
-cd C:\Users\Juan\Desktop\website
+cd Z:\website
 
 echo "Updating publications"
 academic import --bibtex my-publications.bib --overwrite

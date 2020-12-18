@@ -60,12 +60,20 @@
 }
 
 @Article{Sanchez2020,
-  author    = {Alvaro Sanchez and Jean C. C. Vila and Chang-Yu Chang and Juan Diaz-Colunga and Sylvie Estrela and Maria Rebolleda-Gomez},
-  title     = {Directed evolution of microbial communities},
-  year      = {2020},
-  month     = {jul},
-  doi       = {10.32942/osf.io/gsz7j},
-  publisher = {Center for Open Science},
+  author  = {Alvaro Sanchez and Jean C. C. Vila and Chang-Yu Chang and Juan Diaz-Colunga and Sylvie Estrela and Maria Rebolleda-Gomez},
+  journal = {EcoEvoRxiv},
+  title   = {Directed evolution of microbial communities},
+  year    = {2020},
+  month   = {jul},
+  doi     = {10.32942/osf.io/gsz7j},
+}
+
+@Article{diaz-colunga2020,
+  author  = {Diaz-Colunga, Juan and Diaz-Uriarte, Ramon},
+  journal = {bioRxiv},
+  title   = {Conditional prediction of consecutive tumor evolution using cancer progression models: What genotype comes next?},
+  year    = {2020},
+  doi     = {https://doi.org/10.1101/2020.12.16.423099},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
