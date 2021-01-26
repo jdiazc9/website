@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate on Ecology and Evolution
+role: Postdoctoral Associate
 
 # Organizations/Affiliations
 organizations:
 - name: Yale University
-  url: "http://www.yale.edu/"
+  url: "https://www.yale.edu/"
 - name: Department of Ecology & Evolutionary Biology
   url: "https://eeb.yale.edu/"
 
