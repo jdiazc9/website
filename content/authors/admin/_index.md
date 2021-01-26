@@ -10,12 +10,14 @@ authors:
 superuser: true
 
 # Role/position
-role: Post-doctoral Researcher on Ecological and Evolutionary Systems Biology
+role: Postdoctoral Associate on Ecology and Evolution
 
 # Organizations/Affiliations
 organizations:
-- name: Universidad Autónoma de Madrid
-  url: "http://www.uam.es/ss/Satellite/en/home.htm"
+- name: Yale University
+  url: "http://www.yale.edu/"
+- name: Department of Ecology & Evolutionary Biology
+  url: "https://eeb.yale.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
@@ -44,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:juan.diazc@uam.es"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:juan.diazcolunga@yale.edu"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=en&user=MJIf7vAAAAAJ
@@ -68,7 +70,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "juan.diazc@uam.es"
+email: "juan.diazcolunga@yale.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -77,11 +79,11 @@ user_groups: []
 # - Visitors
 ---
 
-Biological systems are complex. We have a fair amount of information about the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how they assemble to produce emergent behaviors.
+Biological systems are complex. We have a fair amount of information about the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how these assemble to produce emergent behaviors.
 
 My research focuses on communities of cells that are different at the *genotypic* level (e.g. cancer cells carrying different mutations, bacterial colonies where multiple species coexist...) or at the *phenotypic* level only (e.g. cells that display differences in size, morphology or activity despite carrying identical DNA sequences). The composition of these communities and the interactions of their individuals determine their properties. Can we understand, predict and ultimately act on how these communities assemble and evolve?
 
-To address these questions, I use mathematical modeling, computer simulations and data analyses that complement the experimental skills that I (slowly but steadily!) keep developing. I am currently a Postdoctoral Researcher at the Universidad Autónoma de Madrid, where I work with professor [Ramón Díaz-Uriarte](https://www.ligarto.org/rdiaz/) on cancer evolution. Soon I will be joining the [Sanchez Laboratory](http://www.sanchezlaboratory.com/) at Yale. Stay tuned!
+To address these questions, I use a mixed experimental and theoretical approach ---including mathematical modeling, computer simulations and data analysis. I am currently a Postdoctoral Associate at Yale University, where I work with the amazing people at the [Sanchez Laboratory](http://www.sanchezlaboratory.com/) trying to understand and exploit the priciples of microbial community assembly and function.
 
 
 
