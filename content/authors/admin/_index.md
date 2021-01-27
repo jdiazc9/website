@@ -83,7 +83,7 @@ Biological systems are complex. We have a fair amount of information about the i
 
 My research focuses on communities of cells that are different at the *genotypic* level (e.g. cancer cells carrying different mutations, bacterial colonies where multiple species coexist...) or at the *phenotypic* level only (e.g. cells that display differences in size, morphology or activity despite carrying identical DNA sequences). The composition of these communities and the interactions of their individuals determine their properties. Can we understand, predict and ultimately act on how these communities assemble and evolve?
 
-To address these questions, I use a mixed experimental and theoretical approach ---including mathematical modeling, computer simulations and data analysis. I am currently a Postdoctoral Associate at Yale University, where I work with the amazing people at the [Sanchez Laboratory](http://www.sanchezlaboratory.com/) trying to understand and exploit the priciples of microbial community assembly and function.
+To address these questions, I use a mixed experimental and theoretical approach including mathematical modeling, computer simulations and data analysis. I am currently a Postdoctoral Associate at Yale University, where I work with the amazing people at the [Sanchez Laboratory](http://www.sanchezlaboratory.com/) trying to understand and exploit the priciples of microbial community assembly.
 
 
 
