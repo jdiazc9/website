@@ -1,7 +1,7 @@
 ---
 title: Top-down engineering of complex communities by directed evolution
 date: '2020-01-01'
-publishDate: '2021-01-27T17:32:26.011613Z'
+publishDate: '2021-03-04T17:07:52.629009Z'
 authors:
 - Chang-Yu Chang
 - Jean C.C. Vila

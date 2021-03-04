@@ -2,7 +2,7 @@
 title: 'Epigenetic control of influenza virus: role of H3K79 methylation in interferon-induced
   antiviral response'
 date: '2018-01-01'
-publishDate: '2021-01-27T17:32:25.730591Z'
+publishDate: '2021-03-04T17:07:52.345955Z'
 authors:
 - Laura Marcos-Villar
 - Juan Díaz-Colunga
