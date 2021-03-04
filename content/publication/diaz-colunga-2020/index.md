@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-03-04T17:07:52.898079Z'
+publishDate: '2021-03-04T17:08:49.525484Z'
 publication_types:
 - '2'
 abstract: Accurate prediction of tumor progression would be helpful for adaptive therapy
