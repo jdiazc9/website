@@ -46,27 +46,6 @@
   doi       = {10.1038/s41598-018-19370-6},
   publisher = {Springer Nature},
 }
-@article {Chang2020.07.24.214775,
-	author = {Chang, Chang-Yu and Vila, Jean C.C. and Bender, Madeline and Li, Richard and Mankowski, Madeleine C. and Bassette, Molly and Borden, Julia and Golfier, Stefan and Sanchez, Paul G. and Waymack, Rachel and Zhu, Xinwen and Diaz-Colunga, Juan and Estrela, Sylvie and Rebolleda-Gomez, Maria and Sanchez, Alvaro},
-	title = {Top-down engineering of complex communities by directed evolution},
-	elocation-id = {2020.07.24.214775},
-	year = {2020},
-	doi = {10.1101/2020.07.24.214775},
-	publisher = {Cold Spring Harbor Laboratory},
-	abstract = {Directed evolution has been used for decades to engineer biological systems from the top-down. Generally, it has been applied at or below the organismal level, by iteratively sampling the mutational landscape in a guided search for genetic variants of higher function. Above the organismal level, a small number of studies have attempted to artificially select microbial communities and ecosystems, with uneven and generally modest success. Our theoretical understanding of artificial ecosystem selection is still limited, particularly for large assemblages of asexual organisms, and we know little about designing efficient methods to direct their evolution. To address this issue, we have developed a flexible modeling framework that allows us to systematically probe any arbitrary selection strategy on any arbitrary set of communities and selected functions, in a wide range of ecological conditions. By artificially selecting hundreds of in-silico microbial metacommunities under identical conditions, we examine the fundamental limits of the two main breeding methods used so far, and prescribe modifications that significantly increase their power. We identify a range of directed evolution strategies that, particularly when applied in combination, are better suited for the top-down engineering of large, diverse, and stable microbial consortia. Our results emphasize that directed evolution allows an ecological structure-function landscape to be navigated in search for dynamically stable and ecologically and functionally resilient high-functioning communities.Competing Interest StatementThe authors have declared no competing interest.},
-	URL = {https://www.biorxiv.org/content/early/2020/07/25/2020.07.24.214775.1},
-	eprint = {https://www.biorxiv.org/content/early/2020/07/25/2020.07.24.214775.1.full.pdf},
-	journal = {bioRxiv}
-}
-
-@Article{Sanchez2020,
-  author  = {Alvaro Sanchez and Jean C. C. Vila and Chang-Yu Chang and Juan Diaz-Colunga and Sylvie Estrela and Maria Rebolleda-Gomez},
-  journal = {EcoEvoRxiv},
-  title   = {Directed evolution of microbial communities},
-  year    = {2020},
-  month   = {jul},
-  doi     = {10.32942/osf.io/gsz7j},
-}
 
 @Article{diaz-colunga2020,
   author   = {Diaz-Colunga, Juan and Diaz-Uriarte, Ramon},
@@ -77,6 +56,19 @@
   doi      = {https://doi.org/10.1101/2020.12.16.423099},
   eprint   = {https://www.biorxiv.org/content/10.1101/2020.12.16.423099v1.full.pdf},
   url      = {https://www.biorxiv.org/content/10.1101/2020.12.16.423099v1},
+}
+
+@Article{Sanchez2021,
+  author    = {{\'{A}}lvaro S{\'{a}}nchez and Jean C.C. Vila and Chang-Yu Chang and Juan Diaz-Colunga and Sylvie Estrela and Mar{\'{\i}}a Rebolleda-Gomez},
+  journal   = {Annual Review of Biophysics},
+  title     = {Directed Evolution of Microbial Communities},
+  year      = {2021},
+  month     = {may},
+  number    = {1},
+  pages     = {323--341},
+  volume    = {50},
+  doi       = {10.1146/annurev-biophys-101220-072829},
+  publisher = {Annual Reviews},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

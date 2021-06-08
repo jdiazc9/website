@@ -1,16 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Directed Evolution of Microbial Communities
+title: Engineering complex communities by directed evolution
 subtitle: ''
 summary: ''
 authors:
-- Álvaro Sánchez
-- Jean C. C. Vila
 - Chang-Yu Chang
+- Jean C. C. Vila
+- Madeline Bender
+- Richard Li
+- Madeleine C. Mankowski
+- Molly Bassette
+- Julia Borden
+- Stefan Golfier
+- Paul Gerald L. Sanchez
+- Rachel Waymack
+- Xinwen Zhu
 - Juan Diaz-Colunga
 - Sylvie Estrela
-- María Rebolleda-Gomez
+- Maria Rebolleda-Gomez
+- Alvaro Sanchez
 tags: []
 categories: []
 date: '2021-05-01'
@@ -32,10 +41,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-06-08T15:28:07.235856Z'
+publishDate: '2021-06-08T15:28:07.588932Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Annual Review of Biophysics*'
-doi: 10.1146/annurev-biophys-101220-072829
+publication: '*Nature Ecology & Evolution*'
+doi: 10.1038/s41559-021-01457-5
 ---
