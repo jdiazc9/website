@@ -2,7 +2,7 @@
 title: Osmotic modulation of chromatin impacts on efficiency and kinetics of cell
   fate modulation
 date: '2018-05-01'
-publishDate: '2021-06-08T15:28:06.051586Z'
+publishDate: '2022-01-10T23:46:36.789248Z'
 authors:
 - A. F. Lima
 - G. May
