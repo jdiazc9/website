@@ -2,7 +2,7 @@
 title: Mitochondrial levels determine variability in cell death by modulating apoptotic
   gene expression
 date: '2018-01-01'
-publishDate: '2022-02-05T22:35:04.838160Z'
+publishDate: '2022-02-05T22:38:41.093698Z'
 authors:
 - Silvia Márquez-Jurado
 - Juan Díaz-Colunga
