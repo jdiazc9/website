@@ -1,16 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Conditional prediction of consecutive tumor evolution using cancer progression
-  models: What genotype comes next?'
+title: 'Mitochondria and the non-genetic origins of cell-to-cell variability: More
+  is different'
 subtitle: ''
 summary: ''
 authors:
-- Juan AND Diaz-Uriarte, Ramon Diaz-Colunga
+- Raúl Guantes
+- Juan Díaz-Colunga
+- Francisco J. Iborra
 tags: []
 categories: []
-date: '2021-12-01'
-lastmod: 2022-06-17T20:05:44+02:00
+date: '2015-01-01'
+lastmod: 2022-06-17T20:08:18+02:00
 featured: false
 draft: false
 
@@ -28,11 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-17T18:05:43.704114Z'
+publishDate: '2022-06-17T18:08:17.837614Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*PLOS Computational Biology*'
-url_pdf: https://doi.org/10.1371/journal.pcbi.1009055
-doi: 10.1371/journal.pcbi.1009055
+publication: '*BioEssays*'
+doi: 10.1002/bies.201500082
 ---

@@ -1,20 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Directed Evolution of Microbial Communities
+title: 'Conditional prediction of consecutive tumor evolution using cancer progression
+  models: What genotype comes next?'
 subtitle: ''
 summary: ''
 authors:
-- Álvaro Sánchez
-- Jean C. C. Vila
-- Chang-Yu Chang
-- Juan Diaz-Colunga
-- Sylvie Estrela
-- María Rebolleda-Gomez
+- Juan AND Diaz-Uriarte, Ramon Diaz-Colunga
 tags: []
 categories: []
-date: '2021-05-01'
-lastmod: 2021-06-08T11:28:07-04:00
+date: '2021-12-01'
+lastmod: 2022-06-17T20:08:19+02:00
 featured: false
 draft: false
 
@@ -32,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-17T18:08:18.911984Z'
+publishDate: '2022-06-17T18:08:19.593137Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Annual Review of Biophysics*'
-doi: 10.1146/annurev-biophys-101220-072829
+publication: '*PLOS Computational Biology*'
+url_pdf: https://doi.org/10.1371/journal.pcbi.1009055
+doi: 10.1371/journal.pcbi.1009055
 ---
