@@ -6,7 +6,8 @@ title: 'Conditional prediction of consecutive tumor evolution using cancer progr
 subtitle: ''
 summary: ''
 authors:
-- Juan AND Diaz-Uriarte, Ramon Diaz-Colunga
+- Juan Diaz-Colunga
+- Ramon Diaz-Uriarte
 tags: []
 categories: []
 date: '2021-12-01'
@@ -28,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-17T18:11:35.797177Z'
+publishDate: '2022-06-17T18:14:21.509652Z'
 publication_types:
 - '2'
 abstract: ''
