@@ -1,29 +1,16 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Engineering complex communities by directed evolution
+title: 'Conditional prediction of consecutive tumor evolution using cancer progression
+  models: What genotype comes next?'
 subtitle: ''
 summary: ''
 authors:
-- Chang-Yu Chang
-- Jean C. C. Vila
-- Madeline Bender
-- Richard Li
-- Madeleine C. Mankowski
-- Molly Bassette
-- Julia Borden
-- Stefan Golfier
-- Paul Gerald L. Sanchez
-- Rachel Waymack
-- Xinwen Zhu
-- Juan Diaz-Colunga
-- Sylvie Estrela
-- Maria Rebolleda-Gomez
-- Alvaro Sanchez
+- Juan Diaz-Colunga, Ramon Diaz-Uriarte
 tags: []
 categories: []
-date: '2021-05-01'
-lastmod: 2021-06-08T11:28:07-04:00
+date: '2021-12-01'
+lastmod: 2022-02-05T17:57:12-05:00
 featured: false
 draft: false
 
@@ -41,10 +28,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-17T18:05:43.276575Z'
+publishDate: '2022-02-05T22:57:12.501578Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Ecology & Evolution*'
-doi: 10.1038/s41559-021-01457-5
+publication: '*PLOS Computational Biology*'
+url_pdf: https://doi.org/10.1371/journal.pcbi.1009055
+doi: 10.1371/journal.pcbi.1009055
 ---

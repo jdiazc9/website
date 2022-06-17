@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2020-01-01'
-lastmod: 2020-12-18T18:50:04-05:00
+lastmod: 2022-06-17T20:05:42+02:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-02-05T22:57:11.754411Z'
+publishDate: '2022-06-17T18:05:42.525235Z'
 publication_types:
 - '2'
 abstract: Accurate prediction of tumor progression would be helpful for adaptive therapy
