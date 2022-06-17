@@ -1,20 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Directed Evolution of Microbial Communities
+title: Diversity begets diversity under microbial niche construction
 subtitle: ''
 summary: ''
 authors:
-- Álvaro Sánchez
-- Jean C. C. Vila
-- Chang-Yu Chang
-- Juan Diaz-Colunga
 - Sylvie Estrela
-- María Rebolleda-Gomez
+- Juan Diaz-Colunga
+- Jean CC Vila
+- Alicia Sanchez-Gorostiaga
+- Alvaro Sanchez
 tags: []
 categories: []
-date: '2021-05-01'
-lastmod: 2021-06-08T11:28:07-04:00
+date: '2022-01-01'
+lastmod: 2022-06-17T20:11:36+02:00
 featured: false
 draft: false
 
@@ -32,10 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-06-17T18:11:35.083009Z'
+publishDate: '2022-06-17T18:11:36.532560Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Annual Review of Biophysics*'
-doi: 10.1146/annurev-biophys-101220-072829
+publication: '*bioRxiv*'
 ---
