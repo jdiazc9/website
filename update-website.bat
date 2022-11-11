@@ -7,8 +7,8 @@ echo "Updating publications"
 copy .\content\publication\_index.md .\content
 rd /s /q .\content\publication
 md .\content\publication
-copy .\content_index.md .\content\publication
-del .\content_index.md
+copy .\content\_index.md .\content\publication
+del .\content\_index.md
 
 academic import --bibtex my-publications.bib --overwrite
 
