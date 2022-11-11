@@ -11,8 +11,8 @@ authors:
 - Francisco J. Iborra
 tags: []
 categories: []
-date: '2015-01-01'
-lastmod: 2022-06-17T20:08:18+02:00
+date: '2016-01-01'
+lastmod: 2022-11-11T11:37:38-05:00
 featured: false
 draft: false
 
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-11T16:29:08.964635Z'
+publishDate: '2022-11-11T16:37:38.477037Z'
 publication_types:
 - '2'
 abstract: ''
