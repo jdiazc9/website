@@ -4,11 +4,12 @@ cd Z:\website
 
 echo "Updating publications"
 
-copy .\content\publication\_index.md .\content
+md .\tmp
+copy .\content\publication\_index.md .\tmp
 rd /s /q .\content\publication
 md .\content\publication
-copy .\content\_index.md .\content\publication
-del .\content\_index.md
+copy .\tmp\_index.md .\content\publication
+rd /s /q .\tmp
 
 academic import --bibtex my-publications.bib --overwrite
 
