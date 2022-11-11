@@ -1,20 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Directed Evolution of Microbial Communities
+title: Top-down and bottom-up cohesiveness in microbial community coalescence
 subtitle: ''
 summary: ''
 authors:
-- Álvaro Sánchez
-- Jean C. C. Vila
-- Chang-Yu Chang
 - Juan Diaz-Colunga
-- Sylvie Estrela
-- María Rebolleda-Gomez
+- Nanxi Lu
+- Alicia Sanchez-Gorostiaga
+- Chang-Yu Chang
+- Helen S. Cai
+- Joshua E. Goldford
+- Mikhail Tikhonov
+- Álvaro Sánchez
 tags: []
 categories: []
-date: '2021-05-01'
-lastmod: 2021-06-08T11:28:07-04:00
+date: '2022-01-01'
+lastmod: 2022-11-11T11:28:18-05:00
 featured: false
 draft: false
 
@@ -32,10 +34,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-11T16:28:16.439352Z'
+publishDate: '2022-11-11T16:28:17.717170Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Annual Review of Biophysics*'
-doi: 10.1146/annurev-biophys-101220-072829
+publication: '*Proceedings of the National Academy of Sciences*'
+url_pdf: https://www.pnas.org/content/119/6/e2111261119
+doi: 10.1073/pnas.2111261119
 ---

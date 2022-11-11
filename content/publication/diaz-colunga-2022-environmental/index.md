@@ -1,20 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Directed Evolution of Microbial Communities
+title: Environmental modulation of global epistasis is governed by effective genetic
+  interactions
 subtitle: ''
 summary: ''
 authors:
-- Álvaro Sánchez
-- Jean C. C. Vila
-- Chang-Yu Chang
 - Juan Diaz-Colunga
-- Sylvie Estrela
-- María Rebolleda-Gomez
+- Alvaro Sanchez
+- C Brandon Ogbunugafor
 tags: []
 categories: []
-date: '2021-05-01'
-lastmod: 2021-06-08T11:28:07-04:00
+date: '2022-01-01'
+lastmod: 2022-11-11T11:28:19-05:00
 featured: false
 draft: false
 
@@ -32,10 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-11-11T16:28:16.439352Z'
+publishDate: '2022-11-11T16:28:19.606421Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Annual Review of Biophysics*'
-doi: 10.1146/annurev-biophys-101220-072829
+publication: '*bioRxiv*'
 ---
