@@ -3,8 +3,6 @@
 cd Z:\website
 
 echo "Updating publications"
-rd /s /q .\content\publication
-md .\content\publication
 academic import --bibtex my-publications.bib --overwrite
 
 echo "Making new website locally (calling Hugo)"
