@@ -93,7 +93,7 @@ address = {street = "C. Darwin 3", city = "Campus de Cantoblanco", postcode = "2
 coordinates = {latitude = "40.5447528531578", longitude = "-3.690224084280822"}
 
 # Directions for visitors to locate you.
-directions = "Microbial Sciences Institute --- lab 215"
+directions = "Department of Microbial Biotechnology --- lab 215"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
