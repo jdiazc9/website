@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Associate
+role: Postdoctoral Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Yale University
-  url: "https://www.yale.edu/"
-- name: Department of Ecology & Evolutionary Biology
-  url: "https://eeb.yale.edu/"
+- name: Spanish National Center for Biotechnology (CNB-CSIC)
+  url: "https://www.cnb.csic.es/index.php/en"
+- name: Department of Microbial Biotechnology
+  url: "https://www.cnb.csic.es/index.php/en/research/research-departments/microbial-biotechnology"
 
 # Short bio (displayed in user profile at end of posts)
 bio: []
 
 interests:
+- Ecology & Evolutionary Biology
+- Population Genetics
 - Systems Biology, Computational Biology & Bioinformatics
-- Genetic vs. Phenotypic diversity
-- Ecology & Evolution
 
 education:
   courses:
@@ -46,7 +46,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:juan.diazcolunga@yale.edu"  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:juan.diaz@cnb.csic.es"  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.es/citations?hl=en&user=MJIf7vAAAAAJ
@@ -70,7 +70,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "juan.diazcolunga@yale.edu"
+email: "juan.diaz@cnb.csic.es"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -79,11 +79,8 @@ user_groups: []
 # - Visitors
 ---
 
-Biological systems are complex. We have a fair amount of information about the individual components that build them up, from the molecules in a cell to the species in an ecosystem, but it remains unclear how these assemble to produce emergent behaviors.
+I am currently a postdoctoral scientist at the [Spanish National Center for Biotechnology](https://www.cnb.csic.es/index.php/en) (CNB-CSIC), where I recently moved from the [Department of Ecology and Evolutionary Biology at Yale University](https://https://eeb.yale.edu/). I am a part of the [Evolution of Community Function lab](https://sanchezlaboratory.weebly.com/) led by Alvaro Sanchez.
 
-My research focuses on communities of cells that are different at the *genotypic* level (e.g. cancer cells carrying different mutations, bacterial colonies where multiple species coexist...) or at the *phenotypic* level only (e.g. cells that display differences in size, morphology or activity despite carrying identical DNA sequences). The composition of these communities and the interactions of their individuals determine their properties. Can we understand, predict and ultimately act on how these communities assemble and evolve?
-
-To address these questions, I use a mixed experimental and theoretical approach including mathematical modeling, computer simulations and data analysis. I am currently a Postdoctoral Associate at Yale University, where I work with the amazing people at the [Sanchez Laboratory](http://www.sanchezlaboratory.com/) trying to understand and exploit the priciples of microbial community assembly.
-
+My work encompasses the interdisciplinary fields of ecology, evolutionary genetics, and systems biology, with a strong quantitative focus combining experimental, theoretical, and computational methods. Most recently, my focus has been **predictively linking the species-level composition with the functions of ecological communities**. My aim is to understand how community-level functions emerge from the complex interactions between member species. Ultimately, my goal is to develop practical guidelines for the rational design of ecological communities that can optimize a wide variety of functions, from the degradation of environmental pollutants to the fertilization of agricultural soils.
 
 

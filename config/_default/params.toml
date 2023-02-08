@@ -1,4 +1,4 @@
-# SITE SETUP
+﻿# SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
 ############################
@@ -82,15 +82,15 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "juan.diazcolunga@yale.edu"
-phone = "+1 (203) 676-0506"
+phone = "(+34) 626 440 546"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "840 West Campus Drive", city = "West Haven", postcode = "CT 06516", country = "United States", country_code = "001"}
+address = {street = "C. Darwin 3", city = "Campus de Cantoblanco", postcode = "28049 Madrid", country = "Spain", country_code = "ES"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "41.257111751818606", longitude = "-72.98922596143049"}
+coordinates = {latitude = "40.5447528531578", longitude = "-3.690224084280822"}
 
 # Directions for visitors to locate you.
 directions = "Microbial Sciences Institute --- lab 215"
