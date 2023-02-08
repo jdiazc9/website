@@ -1,4 +1,4 @@
-﻿# SITE SETUP
+# SITE SETUP
 # Documentation: https://sourcethemes.com/academic/
 
 ############################
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "juan.diazcolunga@yale.edu"
+email = "juan.diaz@cnb.csic.es"
 phone = "(+34) 626 440 546"
 
 # Address
