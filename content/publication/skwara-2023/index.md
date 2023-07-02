@@ -1,19 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Emergent ecosystem functions follow simple quantitative rules
+title: Learning the functional landscape of microbial communities
 subtitle: ''
 summary: ''
 authors:
-- Juan Diaz-Colunga
 - Abigail Skwara
-- Jean CC Vila
-- Djordje Bajic
-- Álvaro Sánchez
+- Karna Gowda
+- Mahmoud Yousef
+- Juan Diaz-Colunga
+- Arjun S Raman
+- Alvaro Sanchez
+- Mikhail Tikhonov
+- Seppe Kuehn
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-07-02T22:46:30+02:00
+date: '2023-01-01'
+lastmod: 2023-07-02T22:46:31+02:00
 featured: false
 draft: false
 
@@ -31,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-02T20:46:30.271121Z'
+publishDate: '2023-07-02T20:46:31.641430Z'
 publication_types:
 - '2'
 abstract: ''
