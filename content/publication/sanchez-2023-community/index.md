@@ -1,23 +1,20 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Predictability of the community-function landscape in wine yeast ecosystems
+title: The community-function landscape of microbial consortia
 subtitle: ''
 summary: ''
 authors:
-- Javier Ruiz
-- Miguel de Celis
-- Juan Diaz-Colunga
-- Jean CC Vila
-- Belen Benitez-Dominguez
-- Javier Vicente
-- Antonio Santos
 - Alvaro Sanchez
-- Ignacio Belda
+- Djordje Bajic
+- Juan Diaz-Colunga
+- Abigail Skwara
+- Jean CC Vila
+- Seppe Kuehn
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-07-02T22:46:26+02:00
+date: '2023-01-01'
+lastmod: 2023-12-04T19:01:12+01:00
 featured: false
 draft: false
 
@@ -35,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-02T20:46:24.068812Z'
+publishDate: '2023-12-04T18:01:12.268627Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*bioRxiv*'
+publication: '*Cell Systems*'
 ---

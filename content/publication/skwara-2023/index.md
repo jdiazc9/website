@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Learning the functional landscape of microbial communities
+title: Statistically learning the functional landscape of microbial communities
 subtitle: ''
 summary: ''
 authors:
@@ -16,7 +16,7 @@ authors:
 tags: []
 categories: []
 date: '2023-01-01'
-lastmod: 2023-07-02T22:46:31+02:00
+lastmod: 2023-12-04T19:01:13+01:00
 featured: false
 draft: false
 
@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-02T20:46:31.641430Z'
+publishDate: '2023-12-04T18:01:13.561618Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*bioRxiv*'
+publication: '*Nature Ecology & Evolution*'
 ---

@@ -1,8 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Environmental modulation of global epistasis is governed by effective genetic
-  interactions
+title: Environmental modulation of global epistasis in a drug resistance fitness landscape
 subtitle: ''
 summary: ''
 authors:
@@ -11,8 +10,8 @@ authors:
 - C Brandon Ogbunugafor
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2023-07-02T22:46:31+02:00
+date: '2023-01-01'
+lastmod: 2023-12-04T19:01:13+01:00
 featured: false
 draft: false
 
@@ -30,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2023-07-02T20:46:31.358373Z'
+publishDate: '2023-12-04T18:01:13.155828Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*bioRxiv*'
+publication: '*Nature Communications (in press)*'
 ---
