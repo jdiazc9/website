@@ -14,8 +14,8 @@ authors:
 - Alvaro Sanchez
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2024-04-23T22:56:17+02:00
+date: '2023-01-01'
+lastmod: 2024-04-23T22:59:41+02:00
 featured: false
 draft: false
 
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-04-23T20:56:17.665508Z'
+publishDate: '2024-04-23T20:59:41.648967Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Philosophical Transactions of the Royal Society B (in press)*'
+publication: '*Philosophical Transactions of the Royal Society B*'
 ---
