@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "juan.diazcolunga@gmail.com"
+email = "jdc@usal.es"
 phone = "(+34) 626 440 546"
 
 # Address
@@ -93,7 +93,7 @@ address = {street = "C. Zacarías González 2", city = "Salamanca", postcode = "
 coordinates = {latitude = "40.970473", longitude = "-5.682907"}
 
 # Directions for visitors to locate you.
-directions = "Lab p1.6"
+directions = "Lab p1.6-7"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
