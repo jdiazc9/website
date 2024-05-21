@@ -28,3 +28,6 @@ projects: []
 
 (Versión en español más abajo // Spanish version below)
 
+// :us::uk:
+
+**TL;DR:** I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
