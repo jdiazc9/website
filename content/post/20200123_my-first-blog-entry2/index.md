@@ -45,3 +45,22 @@ The idea is to explain the specific work of _our_ group in simple terms, making 
 Contents will be in Spanish from now on. I believe that this is the best way to make them accessible to the largest number of readers among those who may be remotely interested.
 
 Welcome (back) to my blog!
+
+// :es:
+
+A principios de 2020 me comprometí a [actualizar este blog](https://jdiazc9.github.io/post/20200123_my-first-blog-entry/) con regularidad. Más de cuatro años después, y sin haber posteado nada, ha llegado el momento de volver a engañarme a mí mismo.
+
+La cuestión es que creo que por fin he decidido el enfoque que quiero darle a este espacio. A finales de 2022 me mudé de vuelta a España, y desde entonces he estado trabajando para el Consejo Superior de Investigaciones Científicas (CSIC), primero en el [Centro Nacional de Biotecnología](http://www.cnb.csic.es/index.php/en) en Madrid y ahora en el [Instituto de Biología Funcional y Genómica](https://ibfg.usal-csic.es/index-en.php) en Salamanca. El CSIC es la mayor institución científica de España y una de las más importantes de Europa. El grueso de su financiación sale de fondos públicos adjudicados por el gobierno central, con los que se cubren la mayoría de proyectos de investigación y también, en fin, mi propio salario.
+
+Como científicos, tenemos la responsabilidad de promover el desarrollo social. Esto incluye la generación de conocimiento fundamental y de herramientas tecnológicas que permitan abordar los retos globales presentes y futuros. También incluye la promoción de la equidad e inclusión, de la justicia social, y de la igualdad de género. Además (y he aquí el tema que nos ocupa), implica velar por el acceso libre y democratizado a la información y el conocimiento. Todas estas responsabilidades, claro, se agudizan cuando la ciencia se financia con fondos públicos.
+
+Por eso mi intención es convertir este blog en una plataforma de divulgación para el trabajo que llevamos a cabo en el laboratorio. El objetivo no es hacer divulgación científica “en general”: en España ya existen muy buenos divulgadores y divulgadoras orientados al público no especializado, como Sandra Ortonobes ([La Hiperactina](https://www.youtube.com/@Lahiperactina)), Rocío Vidal ([La Gata de Schrödinger](https://www.youtube.com/channel/UCoXtmmnLCbXDiSo8GxsmOzA)), Javier Santaolalla ([Date un Vlog](https://www.youtube.com/@dateunvlog)), o Eduardo Sáenz ([Derivando](https://www.youtube.com/@Derivando)), por poner sólo algunos ejemplos más o menos relacionados con mi(s) área(s) de investigación.
+
+
+La idea es explicar el trabajo concreto de _nuestro_ grupo en términos simples, de forma que sea accesible a todo tipo de públicos. Mi intención es transmitir _por qué hacemos lo que hacemos_ en el laboratorio, y por qué es importante que lo hagamos. Intentaré publicar un post de este tipo cada vez que el laboratorio produzca algo (digamos, cada vez que publiquemos un artículo científico). Quizás también haga resúmenes periódicos de otro tipo de actividades que organicemos o en las que participemos, como charlas, talleres, congresos, etc.
+
+El contenido estará, a partir de ahora, en español. Entiendo que es la mejor manera de que sea accesible para el mayor número de lectores entre aquellos que puedan tener un mínimo interés en él.
+
+Bienvenid@s (otra vez) a mi blog!
+
+
