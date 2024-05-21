@@ -1,7 +1,8 @@
 ---
-title: What this blog is (and isn't) going to be
+title: What this blog is (and isn't) going to be // Lo que va a ser (y no va a ser) este blog
 subtitle:
-summary: 
+summary:
+- **TL;DR:** I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
 authors:
 - admin
 tags: []
@@ -28,9 +29,9 @@ projects: []
 
 (Versión en español más abajo // Spanish version below)
 
-// :us::uk:
+'----------------'
 
-**TL;DR:** I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
+:us::uk:
 
 In early 2020 I committed to [keeping this blog updated](https://jdiazc9.github.io/post/20200123_my-first-blog-entry/). More than four years and zero posts later, it’s time to fool myself again.
 
@@ -46,7 +47,9 @@ Contents will be in Spanish from now on. I believe that this is the best way to 
 
 Welcome (back) to my blog!
 
-// :es:
+'----------------'
+
+:es:
 
 A principios de 2020 me comprometí a [actualizar este blog](https://jdiazc9.github.io/post/20200123_my-first-blog-entry/) con regularidad. Más de cuatro años después, y sin haber posteado nada, ha llegado el momento de volver a engañarme a mí mismo.
 
