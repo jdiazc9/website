@@ -26,9 +26,9 @@ draft: false
 projects: []
 ---
 
-(Versión en español más abajo // Spanish version below)
+<small>(Versión en español más abajo // Spanish version below)</small>
 
-'----------------'
+---
 
 :us::uk:
 
@@ -46,7 +46,7 @@ Contents will be in Spanish from now on. I believe that this is the best way to 
 
 Welcome (back) to my blog!
 
-'----------------'
+---
 
 :es:
 
