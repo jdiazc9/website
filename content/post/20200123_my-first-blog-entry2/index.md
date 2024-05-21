@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: What this blog is (and isn't) going to be
 subtitle:
 summary: 
 authors:
@@ -26,7 +26,4 @@ draft: false
 projects: []
 ---
 
-![jpg](./thisiswhere.jpg)
-![jpg](./ifihadone.jpg)
-
-...but trust me, I am filled with good intentions and plan to update this blog periodically.
+Some dummy text.
