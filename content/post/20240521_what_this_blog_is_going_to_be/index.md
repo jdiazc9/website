@@ -1,5 +1,5 @@
 ---
-title: What this blog is (and isn't) going to be // Lo que va a ser (y no va a ser) este blog
+title: What this blog is (and isn't) going to be
 subtitle:
 summary: TL;DR: I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
 authors:
