@@ -26,7 +26,7 @@ draft: false
 projects: []
 ---
 
-Los sistemas biológicos son _complejos_. Esto significa que sus propiedades surgen de redes de interacción entre muchos compo-nentes.
+Los sistemas biológicos son _complejos_. Esto significa que sus propiedades surgen de redes de interacción entre muchos componentes.
 
 Pongamos un ejemplo concreto. Supongamos que voy a sembrar en mi huerto tres semillas de planta tomatera. Por azares de la vida, la primera de ellas resulta tener una mutación en un gen determinado &mdash; llamémoslo el gen A. Las tomateras suelen dar unos 30 frutos, pero la mutación hace que la mía sólo llegue a dar 20. La segunda de mis plantas también resulta tener una mutación, en este caso en un gen distinto, el gen B. Debido a ello, esta segunda tomatera da únicamente 10 frutos.
 
