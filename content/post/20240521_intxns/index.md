@@ -1,7 +1,7 @@
 ---
 title: Interacciones y complejidad en biología: de genes a ecosistemas
 subtitle:
-summary: Los sistemas biológicos son complejos, pero existen reglas generales que nos permiten explicar y predecir sus comportamientos.
+summary:
 authors:
 - admin
 tags: []
