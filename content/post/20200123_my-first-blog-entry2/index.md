@@ -26,4 +26,5 @@ draft: false
 projects: []
 ---
 
-Some dummy text.
+(Versión en español más abajo // Spanish version below)
+
