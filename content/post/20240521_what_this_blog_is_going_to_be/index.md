@@ -2,7 +2,6 @@
 title: What this blog is (and isn't) going to be // Lo que va a ser (y no va a ser) este blog
 subtitle:
 summary:
-- TL;DR: I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
 authors:
 - admin
 tags: []
@@ -30,6 +29,8 @@ projects: []
 (Versión en español más abajo // Spanish version below)
 
 // :us::uk:
+
+**TL;DR:** I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
 
 In early 2020 I committed to [keeping this blog updated](https://jdiazc9.github.io/post/20200123_my-first-blog-entry/). More than four years and zero posts later, it’s time to fool myself again.
 
