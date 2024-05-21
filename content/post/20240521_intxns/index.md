@@ -1,7 +1,7 @@
 ---
 title: "Interacciones y complejidad en biología: de genes a ecosistemas"
 subtitle:
-summary:
+summary: "Los sistemas biológicos son complejos, pero existen reglas generales que nos permiten explicar y predecir sus comportamientos. En nuestro último trabajo, demostramos que las interacciones entre los genes de un organismo y las interacciones entre las especies de une cosistema siguen patrones similares desde un punto de vista matemático."
 authors:
 - admin
 tags: []
@@ -47,3 +47,9 @@ Igual que ocurría con los genes y las mutaciones, las especies de un ecosistema
 Y aquí es donde entramos nosotros. Nuestro trabajo demuestra que estas interacciones entre especies pueden estudiarse utilizando el mismo tipo de modelos estadísticos que han servido para entender y predecir interacciones entre genes. Podríamos decir que el “juego” entre genes y el “juego” entre especies tiene las mismas reglas, al menos desde un punto de vista matemático. Esto tiene implicaciones prácticas muy importantes. Si, en parte gracias a estos modelos, ya somos capaces de hacer ingeniería genética, también deberíamos ser capaces de hacer ingeniería ecológica: diseñar comunidades completas que realicen eficientemente tareas importantes en biotecnología.
 
 Desde un punto de vista algo más conceptual, nuestros resultados sugieren que podemos identificar “reglas” generales en biología que apliquen a muchas escalas, desde genes y organismos hasta ecosistemas. Y esto, de alguna forma, es un alivio para quienes las investigamos. Los sistemas biológicos son _complejos_... pero _complejo_ no significa _incomprensible_.
+
+---
+
+<small>Artículo original:</small>
+
+<small>J. Diaz-Colunga, A. Skwara, J.C.C. Vila, D. Bajic, A. Sanchez (2024). Global epistasis and the emergence of function in microbial consortia. _Cell_ **187**:1-122. DOI: [10.1016/j.cell.2024.04.016](https://doi.org/10.1016/j.cell.2024.04.016)</small>
