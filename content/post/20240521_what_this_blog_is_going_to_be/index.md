@@ -1,7 +1,7 @@
 ---
 title: What this blog is (and isn't) going to be
 subtitle:
-summary: TL;DR: I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
+summary: TLDR. I will start posting summaries of the lab's research for non-specialized readers (in Spanish).
 authors:
 - admin
 tags: []
