@@ -53,3 +53,5 @@ Desde un punto de vista algo más conceptual, nuestros resultados sugieren que p
 <small>Artículo original:</small>
 
 <small>J. Diaz-Colunga, A. Skwara, J.C.C. Vila, D. Bajic, A. Sanchez (2024). Global epistasis and the emergence of function in microbial consortia. _Cell_ **187**:1-122. DOI: [10.1016/j.cell.2024.04.016](https://doi.org/10.1016/j.cell.2024.04.016)</small>
+
+<small>**Actualización:** Nota de prensa del CSIC disponible [aquí](https://www.csic.es/es/actualidad-del-csic/un-estudio-del-csic-unifica-la-teoria-de-la-genetica-con-la-ecologia).</small>
