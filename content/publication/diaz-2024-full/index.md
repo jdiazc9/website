@@ -1,19 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Diversity begets diversity under microbial niche construction
+title: Full factorial construction of synthetic microbial communities
 subtitle: ''
 summary: ''
 authors:
-- Sylvie Estrela
 - Juan Diaz-Colunga
-- Jean CC Vila
-- Alicia Sanchez-Gorostiaga
+- Pablo Catalan
+- Magdalena San Roman
+- Andrea Arrabal
 - Alvaro Sanchez
 tags: []
 categories: []
-date: '2022-01-01'
-lastmod: 2024-05-23T01:17:02+02:00
+date: '2024-01-01'
+lastmod: 2024-05-23T01:17:00+02:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-22T23:17:02.579592Z'
+publishDate: '2024-05-22T23:16:59.918992Z'
 publication_types:
 - '2'
 abstract: ''

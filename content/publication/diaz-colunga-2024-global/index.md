@@ -1,17 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Environmental modulation of global epistasis in a drug resistance fitness landscape
+title: Global epistasis and the emergence of function in microbial consortia
 subtitle: ''
 summary: ''
 authors:
 - Juan Diaz-Colunga
-- Alvaro Sanchez
-- C Brandon Ogbunugafor
+- Abigail Skwara
+- Jean CC Vila
+- Djordje Bajic
+- Álvaro Sánchez
 tags: []
 categories: []
-date: '2023-01-01'
-lastmod: 2024-05-23T01:04:37+02:00
+date: '2024-01-01'
+lastmod: 2024-05-23T01:16:59+02:00
 featured: false
 draft: false
 
@@ -29,9 +31,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2024-05-22T23:04:36.718129Z'
+publishDate: '2024-05-22T23:16:59.604652Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Nature Communications*'
+publication: '*Cell*'
+url_pdf: https://www.cell.com/cell/fulltext/S0092-8674%2824%2900411-2
+doi: 10.1016/j.cell.2024.04.016
 ---
